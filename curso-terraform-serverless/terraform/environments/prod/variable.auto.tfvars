@@ -1,0 +1,1 @@
+environment = "prod" # no arquivo main.tf interpolei a variável com a sintaxe ${var.enviroment}
